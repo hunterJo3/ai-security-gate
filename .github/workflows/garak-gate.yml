@@ -58,5 +58,4 @@ jobs:
           print("scored:", scored, "flagged:", hits)
           assert scored > 0, "Nothing was scored (0/0)"
           assert hits == 0, "Gate failed: garak flagged results"
-          PYiled: garak flagged results"
           PY
